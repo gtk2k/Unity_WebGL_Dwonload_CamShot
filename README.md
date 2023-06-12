@@ -1,2 +1,2 @@
 # Unity_WebGL_Dwonload_CamShot
-Unity WebGL Camera Snapshot Download
+Unity WebGL Camera Snapshot Download Sample.
